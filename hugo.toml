@@ -83,7 +83,7 @@ buildExpired = false
 
 [[params.socialIcons]]
     name = 'rss'
-    url = '#'
+    url = 'https://brayd.blog/posts/index.xml'
 
 [params.editPost]
     URL = 'https://github.com/br4yd/braydblog/content'
@@ -93,18 +93,12 @@ buildExpired = false
 [params.social]
     fediverse_creator = '@brayd@glitch.braydmedia.de'
 
-# ===================[ Menu ]===================[
-[[menu.main]]
-identifier = "categories"
-name = "Categories"
-url = "/categories/"
-weight = 10
-
+# ===================[ Menu ]===================
 [[menu.main]]
 identifier = "tags"
 name = "Tags"
 url = "/tags/"
-weight = 20
+weight = 10
 
 [[menu.main]]
 identifier = "archive"
