@@ -86,7 +86,7 @@ buildExpired = false
     url = 'https://brayd.blog/posts/index.xml'
 
 [params.editPost]
-    URL = 'https://github.com/br4yd/braydblog/content'
+    URL = 'https://github.com/br4yd/blog/tree/main/content'
     text = 'Suggest changes'
     appendFilePath = true
 
