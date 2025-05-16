@@ -1,3 +1,80 @@
 baseURL = 'https://brayd.blog/'
 languageCode = 'en-us'
 title = 'Brayd’s Blog'
+theme = 'PaperMod'
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  env = 'production'
+  title = 'Brayd’s Blog'
+  description = 'A blog about all things IT, Linux, veganism, martial arts and more!'
+  keywords = ['Blog', 'Linux', 'IT', 'veganism', 'mma', 'muay thai']
+  author = 'Brayd'
+  DateFormat = 'January 2, 2006'
+  defaultTheme = 'auto'
+  disableThemeToggle = false
+
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+[params.homeInfoParams]
+  title = 'Brayd’s Blog 🌱'
+  content = 'A blog about all things IT, Linux, veganism, martial arts and more!'
+
+[[params.socialIcons]]
+    name = 'mastodon'
+    url = 'https://glitch.braydmedia.de/@brayd'
+
+[[params.editPost]]
+    url = 'https://github.com/br4yd/braydblog/content'
+    text = 'Suggest changes'
+    appendFilePath = true
+
+# ===================[ Menu ]===================[
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "archive"
+name = "Archive"
+url = "/archive/"
+weight = 20
+
+[[menu.main]]
+identifier = "mastodon"
+name = "Mastodon"
+url = "https://glitch.braydmedia.de"
+weight = 30
