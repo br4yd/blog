@@ -45,6 +45,9 @@ buildExpired = false
   title = 'Brayd’s Blog 🌱'
   content = 'A blog about all things IT, Linux, veganism, martial arts and more!'
 
+[params.assets]
+    favicon = '/favicon.ico'
+
 [[params.socialIcons]]
     name = 'mastodon'
     url = 'https://glitch.braydmedia.de/@brayd'
