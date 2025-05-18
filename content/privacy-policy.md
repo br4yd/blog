@@ -33,7 +33,9 @@ I, as the sole operator of this Website, am the data controller within the meani
 > 70736 Fellbach  
 > E-Mail: info@braydmedia.de  
 
-You can use PGP to encrypt your email using my [public key](https://keys.openpgp.org/vks/v1/by-fingerprint/D3001046920B6E9CF23679ABC2B176B9DEB8BA48).
+
+> [!TIP]
+> You can use PGP to encrypt your email using my [public key](https://keys.openpgp.org/vks/v1/by-fingerprint/D3001046920B6E9CF23679ABC2B176B9DEB8BA48).
 
 ---
 
@@ -116,4 +118,6 @@ If you have any questions or comments about this Privacy Policy, or if you wish 
 > 70736 Fellbach  
 > E-Mail: info@braydmedia.de  
 
-You can use PGP to encrypt your email using my [public key](https://keys.openpgp.org/vks/v1/by-fingerprint/D3001046920B6E9CF23679ABC2B176B9DEB8BA48).
+
+> [!TIP]
+> You can use PGP to encrypt your email using my [public key](https://keys.openpgp.org/vks/v1/by-fingerprint/D3001046920B6E9CF23679ABC2B176B9DEB8BA48).
