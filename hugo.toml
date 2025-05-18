@@ -1,7 +1,7 @@
 baseURL = 'https://brayd.blog/'
 languageCode = 'en-us'
 title = 'Brayd’s Blog'
-theme = 'PaperMod'
+theme = ['PaperMod', 'hugo-admonitions']
 
 enableRobotsTXT = true
 buildDrafts = false
@@ -111,3 +111,14 @@ identifier = "mastodon"
 name = "Mastodon"
 url = "https://glitch.braydmedia.de"
 weight = 30
+
+
+[[menu.footer]]
+name = "Imprint"
+url = "/imprint"
+weight = 10
+
+[[menu.footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 20
