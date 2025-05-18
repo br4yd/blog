@@ -1,7 +1,7 @@
 baseURL = 'https://brayd.blog/'
 languageCode = 'en-us'
 title = 'Brayd’s Blog'
-theme = 'PaperMod'
+theme = ['PaperMod', 'hugo-admonitions']
 
 enableRobotsTXT = true
 buildDrafts = false
