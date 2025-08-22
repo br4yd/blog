@@ -53,11 +53,7 @@ buildExpired = false
 
 [[params.socialIcons]]
     name = 'mastodon'
-    url = 'https://glitch.braydmedia.de/@brayd'
-
-[[params.socialIcons]]
-    name = 'bluesky'
-    url = 'https://bsky.app/profile/did:plc:rwknrk4qp3xgy6kndprmrn4r'
+    url = 'https://mastodon.de/@brayd'
 
 [[params.socialIcons]]
     name = 'email'
@@ -72,16 +68,8 @@ buildExpired = false
     url = 'https://www.goodreads.com/user/show/182168274-brayd'
 
 [[params.socialIcons]]
-    name = 'lastfm'
-    url = 'https://www.last.fm/user/braydofficial'
-
-[[params.socialIcons]]
     name = 'liberapay'
     url = 'https://liberapay.com/Braydofficial'
-
-[[params.socialIcons]]
-    name = 'matrix'
-    url = 'https://matrix.to/#/@brayd:chat.braydsocial.eu'
 
 [[params.socialIcons]]
     name = 'pgp'
@@ -97,7 +85,7 @@ buildExpired = false
     appendFilePath = true
 
 [params.social]
-    fediverse_creator = '@brayd@glitch.braydmedia.de'
+    fediverse_creator = '@brayd@mastodon.de'
 
 # ===================[ Menu ]===================
 [[menu.main]]
