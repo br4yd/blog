@@ -1,18 +1,18 @@
 ---
 title: "Privacy Policy"
 date: 2025-05-18T01:07:00+02:00
-lastmod: 2025-05-18T01:07:00+02:00
+lastmod: 2026-08-06T00:00:00+02:00
 showToc: true
 TocOpen: false
 draft: false
 ---
 
-*Last modified: 18th May 2025*
+*Last modified: 6th August 2026*
 
 ## A. Simple Overview (Non-Legal Summary)
 Hello! I take your privacy seriously. Here’s a brief summary of what happens with your data:  
 - **Visiting the Blog**: I collect some technical data (like your IP address) to keep the site running securely and see how many people visit.
-- **Membership & Comments**: If you sign up as a member, leave comments, or subscribe to my newsletter, I’ll save some info (like your email address) so everything works as intended.
+- **No Comments, No Newsletter**: This blog doesn’t have a comment system, membership, or newsletter, so I don’t collect any data for those purposes.
 - **No Advertising Trackers**: I don’t allow any third-party ad trackers on my website, and I won’t sell your data.
 
 If you’d like a deeper understanding of the legal side, please keep reading!
@@ -20,22 +20,18 @@ If you’d like a deeper understanding of the legal side, please keep reading!
 ---
 
 ## Detailed (Legal) Privacy Policy
-I take your privacy seriously and am committed to protecting your personal data. This Privacy Policy explains how I collect, use, and safeguard your information when you visit my self-hosted Ghost blog (“Website”), which is hosted in Germany. By using my Website, you agree to the collection and use of information in accordance with this Privacy Policy and the applicable data protection regulations (including the EU General Data Protection Regulation, “GDPR”).
+I take your privacy seriously and am committed to protecting your personal data. This Privacy Policy explains how I collect, use, and safeguard your information when you visit my statically generated blog (“Website”), built with Hugo and hosted on GitHub Pages. By using my Website, you agree to the collection and use of information in accordance with this Privacy Policy and the applicable data protection regulations (including the EU General Data Protection Regulation, “GDPR”).
 
 ---
 
 ### 1) Data Controller
 I, as the sole operator of this Website, am the data controller within the meaning of the GDPR and other national data protection laws of the member states, as well as other data protection regulations:
 
-> Byron Fröhlich, Braydmedia  
+> Steven Fröhlich, Braydmedia  
 > c/o Block Services  
 > Stuttgarter Str. 106  
 > 70736 Fellbach  
 > E-Mail: info@braydmedia.de  
-
-
-> [!TIP]
-> You can use PGP to encrypt your email using my [public key](https://keys.openpgp.org/vks/v1/by-fingerprint/D3001046920B6E9CF23679ABC2B176B9DEB8BA48).
 
 ---
 
@@ -47,20 +43,14 @@ I, as the sole operator of this Website, am the data controller within the meani
 #### 2. Analytics
 I currently **do not** collect analytical data locally or with sending it to external analytics providers to measure.
 
-#### 3. Comments on Blog Posts
-- Users may leave comments on my blog posts. I collect the data you enter into the comment form (such as your comment and username) and any technical data necessary for security and spam prevention (e.g., IP address, user agent).
-- I use this information to display your comments and moderate them if necessary. The legal basis for processing is my legitimate interest (Art. 6(1)(f) GDPR) in providing a platform for user interactions and ensuring the integrity and security of the Website.
-
-#### 4. Contact Forms
-If you contact me via a contact form or email, I will collect the personal data you provide (such as name, email address, message content) to respond to your inquiry.
+#### 3. Contact via Email
+This Website has no comment system, contact form, membership, or newsletter. If you contact me directly by email, I will collect the personal data you provide (such as your name, email address, and message content) to respond to your inquiry.
 The legal basis is my legitimate interest in processing your request (Art. 6(1)(f) GDPR), or if it relates to a contractual relationship, the performance of a contract or pre-contractual measures (Art. 6(1)(b) GDPR).
 
 ---
 
-### 3) Cookies
-My Website initially does not require cookies to function. However, once you interact with the website, certain cookies may be used. These cookies are essential for providing core functionalities, such as:
-#### 1. Functional Cookies
-- These cookies help remember your preferences (e.g., language settings) and ensure smooth navigation. These cookies are also essential for providing the requested services.
+### 3) Cookies and Local Storage
+My Website does not use cookies. It does use your browser’s local storage to remember your theme preference (light/dark mode) and menu scroll position. This data stays on your device, is never transmitted to me or any third party, and is essential for providing these features.
 
 ---
 
@@ -112,12 +102,8 @@ I reserve the right to update or change this Privacy Policy at any time. Any cha
 ### 10) Contact me
 If you have any questions or comments about this Privacy Policy, or if you wish to exercise your rights, please contact me at:
 
-> Byron Fröhlich, Braydmedia  
+> Steven Fröhlich, Braydmedia  
 > c/o Block Services  
 > Stuttgarter Str. 106  
 > 70736 Fellbach  
 > E-Mail: info@braydmedia.de  
-
-
-> [!TIP]
-> You can use PGP to encrypt your email using my [public key](https://keys.openpgp.org/vks/v1/by-fingerprint/D3001046920B6E9CF23679ABC2B176B9DEB8BA48).
