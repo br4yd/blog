@@ -53,7 +53,7 @@ buildExpired = false
 
 [[params.socialIcons]]
     name = 'mastodon'
-    url = 'https://mastodon.de/@brayd'
+    url = 'https://toot.arbutech.de/@vyrex'
 
 [[params.socialIcons]]
     name = 'email'
@@ -64,16 +64,8 @@ buildExpired = false
     url = 'https://github.com/br4yd'
 
 [[params.socialIcons]]
-    name = 'goodreads'
-    url = 'https://www.goodreads.com/user/show/182168274-brayd'
-
-[[params.socialIcons]]
     name = 'liberapay'
     url = 'https://liberapay.com/Braydofficial'
-
-[[params.socialIcons]]
-    name = 'pgp'
-    url = 'https://keys.openpgp.org/vks/v1/by-fingerprint/D3001046920B6E9CF23679ABC2B176B9DEB8BA48'
 
 [[params.socialIcons]]
     name = 'rss'
@@ -85,7 +77,7 @@ buildExpired = false
     appendFilePath = true
 
 [params.social]
-    fediverse_creator = '@brayd@mastodon.de'
+    fediverse_creator = '@vyrex@toot.arbutech.de'
 
 # ===================[ Menu ]===================
 [[menu.main]]
@@ -103,7 +95,7 @@ weight = 20
 [[menu.main]]
 identifier = "mastodon"
 name = "Mastodon"
-url = "https://glitch.braydmedia.de"
+url = "https://toot.arbutech.de/@vyrex"
 weight = 30
 
 
