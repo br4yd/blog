@@ -52,10 +52,6 @@ buildExpired = false
     apple_touch_icon = "/apple-touch-icon.png"
 
 [[params.socialIcons]]
-    name = 'mastodon'
-    url = 'https://toot.arbutech.de/@vyrex'
-
-[[params.socialIcons]]
     name = 'email'
     url = 'mailto:info@braydmedia.de'
 
@@ -76,9 +72,6 @@ buildExpired = false
     text = 'Suggest changes'
     appendFilePath = true
 
-[params.social]
-    fediverse_creator = '@vyrex@toot.arbutech.de'
-
 # ===================[ Menu ]===================
 [[menu.main]]
 identifier = "tags"
@@ -91,12 +84,6 @@ identifier = "archive"
 name = "Archive"
 url = "/archive/"
 weight = 20
-
-[[menu.main]]
-identifier = "mastodon"
-name = "Mastodon"
-url = "https://toot.arbutech.de/@vyrex"
-weight = 30
 
 
 [[menu.footer]]
